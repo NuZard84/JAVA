@@ -21,7 +21,7 @@ class Circle {
 
 class Test {
 
-    public static void main(String a[]){+
+    public static void main(String a[]){
 
         Circle c = new Circle();
         double area = c.area(5);
